@@ -37,7 +37,7 @@ Use submit and reset at the bottom of the form.
 No CSS or JavaScript is to be included. Focus on structure and accessibility.
 
 ## HTML Code:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -87,7 +87,7 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
     </form>
 </body>
 </html>
-
+```
 
 
 ## Output:
